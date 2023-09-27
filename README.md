@@ -1,4 +1,4 @@
-# ⛏️ A minecraft 1.20.1 survival map pre-generated map with custom generation
+## Minecraft 1.20.1 survival map pre-generated map with custom generation ⛏️
 
 🏞️ Overworld generated with [Terralith](https://www.stardustlabs.net/terralith "Terralith official page") datapack,
 🌋 Nether generated with [Incendium](https://www.stardustlabs.net/incendium "Incendium official page") datapack,
