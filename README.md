@@ -2,11 +2,9 @@
 
 This map is perfect for survival with friends, with its magnificent biomes and structures it will offer you a breathtaking gaming environment!
 
-🏞️ Overworld generated with [Terralith](https://www.stardustlabs.net/terralith "Terralith official page") datapack,
-
-🌋 Nether generated with [Incendium](https://www.stardustlabs.net/incendium "Incendium official page") datapack,
-
-🌌 End generated with [Nullscape](https://www.stardustlabs.net/nullscape "Nullspace official page") datapack
+* 🏞️ Overworld generated with [Terralith](https://www.stardustlabs.net/terralith "Terralith official page") datapack,
+* 🌋 Nether generated with [Incendium](https://www.stardustlabs.net/incendium "Incendium official page") datapack,
+* 🌌 End generated with [Nullscape](https://www.stardustlabs.net/nullscape "Nullspace official page") datapack
 
 📌 Seed: 3480508649305364
 
