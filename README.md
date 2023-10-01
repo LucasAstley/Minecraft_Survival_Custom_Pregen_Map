@@ -13,7 +13,7 @@ _Due to the large file size, downloading is done outside of Github via Google Dr
 | Nether        | 10 000 blocs  | 12,2 Go       | 8,73 Go        | [Link 📎](https://drive.google.com/file/d/1SVXM4hkmm0U0e3D-qv0smpqge4VLYoBU/view?usp=sharing "Download Nether map on Google Drive")     |
 | End           | 10 000 blocs  | 6,41 Go       | 1,71 Go        | [Link 📎](https://drive.google.com/file/d/1gKYWW9d3Ix3hZxVGw6UW1oj4dEx8luUB/view?usp=sharing "Download Overworld map on Google Drive")     |
 
-⚠️ Datapacks are stored in the overworld folder, if you want to use the nether or end you will need to use the overworld!
+⚠️ Datapacks are stored in the overworld folder, if you want to use the nether or end you will need to use the overworld! It is strongly recommended not to import other maps and to only use these 3
 
 These maps took a long time to generate and used a lot of server resources, so if you want to support me you can [buy me a coffee](https://www.buymeacoffee.com/lucasastley) ☕
 
