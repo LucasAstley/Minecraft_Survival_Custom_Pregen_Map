@@ -17,6 +17,8 @@ _Due to the large file size, downloading is done outside of Github via Google Dr
 
 These maps took a long time to generate and used a lot of server resources, so if you want to support me you can [buy me a coffee](https://www.buymeacoffee.com/lucasastley) ☕
 
+⭐ Don't forget to star the project, thanks ;)
+
 > Overworld spawnpoint
 ![Spawnpoint](https://i.imgur.com/yoYR8YO.png)
 > Overworld ice spikes
